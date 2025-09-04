@@ -1,0 +1,10 @@
+Compliance  - ISO 27001, SOC2, GLBA, GDPR, CCPA, PCI DSS
+
+
+SOC 2 - 
+
+A Framework developed by the AICPA
+
+SOC 2 Type 1 - Test controls on a specific date
+SOC 2 Type 2 - Test controls over a period of time like 6-12 months
+
